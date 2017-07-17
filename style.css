@@ -1,0 +1,12 @@
+#hoverbox{
+	width: 400px;
+	height: 300px;
+	border: 2px solid black;
+	background-color: green;
+	display: flex;
+	margin: auto;
+}
+
+.centered{
+	margin: auto;
+}
